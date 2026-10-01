@@ -1,4 +1,4 @@
-# Nguyễn Hữu Trường
+# Nguyễn Hữu Trường - 24810320290
 ## Câu 1: Phân biệt Value Types và Reference Types (Stack vs Heap)
 
 ### 1. Value Types (Kiểu giá trị)
